@@ -1,16 +1,24 @@
-# 🧠 DSA Progress Journal
 
-Welcome to my journey of exploring **Data Structures and Algorithms (DSA)** using **Java**. This repository documents are my efforts to strengthen core concepts, improve logical thinking, and build consistency — all essential for mastering problem-solving and preparing for technical interviews.
+# 🚀 Welcome to My Java DSA Learning Journey 👩‍💻
 
+This repository is a collection of problems and solutions that I'm solving while learning **Data Structures and Algorithms (DSA)** using Java.
+
+I'm using this space to:
+
+- ✅ Strengthen my understanding of core concepts  
+- 🧠 Improve logic and problem-solving skills  
+- 📅 Build consistency through regular practice  
+
+🎯 **Goal:**  
+Become confident in solving coding challenges and prepare effectively for technical interviews and real-world development.
 
 ---
 
-## 📌 Goals
+## 📌 Personal Milestones
 
-- ✅ Strengthen core DSA concepts using Java
-- ✅ Practice daily for consistency
-- ✅ Track progress in one place
-
+- ✅ Strengthen core DSA concepts using Java  
+- ⏳ Practice daily to stay consistent  
+- 📊 Track all problems, topics, and solutions in one place  
 
 ---
 
@@ -34,8 +42,8 @@ Each solution file includes:
 
 |S.No|Topic | Problem | Website Link | Code |
 |----|------|---------|----------------|------|
-|1|Arrays & Strings | Merge Strings Alternatively| [🔗 Link](https://leetcode.com/problems/merge-strings-alternately/) | [📁 Code](mergeStringsAlt.java) |
- |                  |Valid Palindrome| [🔗 Link](https://leetcode.com/problems/valid-palindrome/) | [📁 Code](ValidPalindrome.java) |
+|1|Arrays & Strings | Merge Strings Alternatively| [🔗 Link](https://leetcode.com/problems/merge-strings-alternately/) | [📁 Code](Arrays&Strings/mergeStringsAlt.java) |
+| |                  |Valid Palindrome| [🔗 Link](https://leetcode.com/problems/valid-palindrome/) | [📁 Code](Arrays&Strings/ValidPalindrome.java) |
 
 
 
