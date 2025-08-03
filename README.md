@@ -1,6 +1,6 @@
 # 🧠 DSA Progress Journal
 
-Welcome to my journey of exploring **Data Structures and Algorithms (DSA)** using **Java**. This repository documents my efforts to strengthen core concepts, improve logical thinking, and build consistency — all essential for mastering problem-solving and preparing for technical interviews.
+Welcome to my journey of exploring **Data Structures and Algorithms (DSA)** using **Java**. This repository documents are my efforts to strengthen core concepts, improve logical thinking, and build consistency — all essential for mastering problem-solving and preparing for technical interviews.
 
 
 ---
@@ -18,7 +18,6 @@ Welcome to my journey of exploring **Data Structures and Algorithms (DSA)** usin
 
 - Java
 - VS Code 
-- Git & GitHub
 
 ---
 
@@ -27,19 +26,19 @@ Welcome to my journey of exploring **Data Structures and Algorithms (DSA)** usin
 Each solution file includes:
 - ✅ Problem link
 - 💡 Approach explanation
-- ⏱️ Time and space complexity
 - 🔍 Clean, readable code with comments
 
 ---
 
 ## ✅ Progress Tracker
 
-|Topic | Day | Problem | Website Link | Code |
-|------|-----|---------|----------------|------|
-|Arrays & Strings | Day 01 | Merge Strings Alternatively| [🔗 Link](https://leetcode.com/problems/merge-strings-alternately/) | [📁 Code](Day01/01_MergeStringsAlt.java) |
-<!--| Day 01 | Valid Anagram | [🔗 Link](https://leetcode.com/problems/valid-anagram/) | [📁 Code](Day01/02_Valid_Anagram.java) |
-| Day 02 | Merge Two Sorted Lists | [🔗 Link](https://leetcode.com/problems/merge-two-sorted-lists/) | [📁 Code](Day02/03_Merge_Two_Sorted_Lists.java) |-->
-<!-- Keep adding rows as you go -->
+|S.No|Topic | Problem | Website Link | Code |
+|----|------|---------|----------------|------|
+|1|Arrays & Strings | Merge Strings Alternatively| [🔗 Link](https://leetcode.com/problems/merge-strings-alternately/) | [📁 Code](mergeStringsAlt.java) |
+ |                  |Valid Palindrome| [🔗 Link](https://leetcode.com/problems/valid-palindrome/) | [📁 Code](ValidPalindrome.java) |
+
+
+
 
 ---
 
@@ -58,7 +57,3 @@ Each solution file includes:
 
 
 ---
-
-> 💡 *"Success is the sum of small efforts repeated day in and day out." – Robert Collier*
-
-Let’s keep going one day at a time 🚀
