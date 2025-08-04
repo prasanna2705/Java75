@@ -42,9 +42,15 @@ Each solution file includes:
 
 |S.No|Topic | Problem | Website Link | Code |
 |----|------|---------|----------------|------|
+<<<<<<< HEAD
 |1|Arrays & Strings | Merge Strings Alternatively| [🔗 Link](https://leetcode.com/problems/merge-strings-alternately/) | [📁 Code](Arrays&Strings/mergeStringsAlt.java) |
 | |                  |Valid Palindrome| [🔗 Link](https://leetcode.com/problems/valid-palindrome/) | [📁 Code](Arrays&Strings/ValidPalindrome.java) |
 
+=======
+|1|Arrays & Strings | Merge Strings Alternatively| [🔗 Link](https://leetcode.com/problems/merge-strings-alternately/) | [📁 Code](mergeStringsAlt.java) |
+ |                  |Valid Palindrome| [🔗 Link](https://leetcode.com/problems/valid-palindrome/) | [📁 Code](ValidPalindrome.java) |
+|                   |Greatest Number of Candies|[🔗 Link](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|[📁 Code](greatestNoOfCandies.java) |
+>>>>>>> df869df (WIP: Saving local changes before pulling)
 
 
 
