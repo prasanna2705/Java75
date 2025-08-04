@@ -45,14 +45,9 @@ Each solution file includes:
 
 |1|Arrays & Strings | Merge Strings Alternatively| [🔗 Link](https://leetcode.com/problems/merge-strings-alternately/) | [📁 Code](Arrays&Strings/mergeStringsAlt.java) |
 | |                  |Valid Palindrome| [🔗 Link](https://leetcode.com/problems/valid-palindrome/) | [📁 Code](Arrays&Strings/ValidPalindrome.java) |
+| |                  |Greatest Number of Candies|[🔗 Link](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|[📁 Code](GreatestNoOfCandies.java) |
 
-=======
-|1|Arrays & Strings | Merge Strings Alternatively| [🔗 Link](https://leetcode.com/problems/merge-strings-alternately/) | [📁 Code](mergeStringsAlt.java) |
- |                  |Valid Palindrome| [🔗 Link](https://leetcode.com/problems/valid-palindrome/) | [📁 Code](ValidPalindrome.java) |
- |                  |Greatest Number of Candies|[🔗 Link](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|[📁 Code](GreatestNoOfCandies.java) |
-
-
-
+  
 
 ---
 
