@@ -46,7 +46,8 @@ Each solution file includes:
 |      |                  | Valid Palindrome          | [🔗 Link](https://leetcode.com/problems/valid-palindrome/)                  | [📁 Code](Arrays&Strings/ValidPalindrome.java)   |
 |      |                  | Greatest Number of Candies | [🔗 Link](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | [📁 Code](Arrays&Strings/GreatestNoOfCandies.java) |
 |      |                  |Reverse Vowels in a String |  [🔗 Link](https://leetcode.com/problems/reverse-words-in-a-string/) | [📁 Code](Arrays&Strings/4_ReverseVowels.java)    |
-|      |                  |Reverse Words in a String |  [🔗 Link](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [📁 Code](Arrays&Strings/5_ReverseWords.java)    |
+|      |                  |Reverse Words in a String |  [🔗 Link](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [📁 Code](Arrays&Strings/5_ReverseWords.java)     |
+|      |                  |Product of all Array Elements Except Self Element |  [🔗 Link](https://leetcode.com/problems/product-of-array-except-self/) | [📁 Code](Arrays&Strings/6_ProductofArrayWithoutSelf.java) |
 
 
 
