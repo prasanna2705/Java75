@@ -48,7 +48,7 @@ Each solution file includes:
 |      |                  |Reverse Vowels in a String |  [🔗 Link](https://leetcode.com/problems/reverse-words-in-a-string/) | [📁 Code](Arrays&Strings/4_ReverseVowels.java)    |
 |      |                  |Reverse Words in a String |  [🔗 Link](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [📁 Code](Arrays&Strings/5_ReverseWords.java)     |
 |      |                  |Product of all Array Elements Except Self Element |  [🔗 Link](https://leetcode.com/problems/product-of-array-except-self/) | [📁 Code](Arrays&Strings/6_ProductofArrayWithoutSelf.java) |
-
+|      |                  |Compressed String |  [🔗 Link](https://leetcode.com/problems/string-compression/)| [📁 Code](Arrays&Strings//7_ComprresedString)|
 
 
 ---
