@@ -49,7 +49,8 @@ Each solution file includes:
 |      |                  |Reverse Words in a String |  [🔗 Link](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [📁 Code](Arrays&Strings/5_ReverseWords.java)     |
 |      |                  |Product of all Array Elements Except Self Element |  [🔗 Link](https://leetcode.com/problems/product-of-array-except-self/) | [📁 Code](Arrays&Strings/6_ProductofArrayWithoutSelf.java) |
 |      |                  |Compressed String |  [🔗 Link](https://leetcode.com/problems/string-compression/)| [📁 Code](Arrays&Strings//7_ComprresedString)|
-|      |                  |Longest Compressed String |  [🔗 Link](https://leetcode.com/problems/longest-common-prefix/)| [📁 Code](Arrays&Strings//8_LongestCompressedString)|
+|      |                  |Longest Compressed String |  [🔗 Link](https://leetcode.com/problems/longest-common-prefix/)| [📁 Code](Arrays&Strings//8_LongestCompressedString.java)|
+|      |                  |Majority Element |  [🔗 Link](https://leetcode.com/problems/majority-element/)| [📁 Code](Arrays&Strings//9_MajorityElement.java)|
 
 
 ---
