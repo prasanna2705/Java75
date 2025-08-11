@@ -51,6 +51,7 @@ Each solution file includes:
 |      |                  |Compressed String |  [🔗 Link](https://leetcode.com/problems/string-compression/)| [📁 Code](Arrays&Strings//7_ComprresedString)|
 |      |                  |Longest Compressed String |  [🔗 Link](https://leetcode.com/problems/longest-common-prefix/)| [📁 Code](Arrays&Strings//8_LongestCompressedString.java)|
 |      |                  |Majority Element |  [🔗 Link](https://leetcode.com/problems/majority-element/)| [📁 Code](Arrays&Strings//9_MajorityElement.java)|
+|      |                  |Plus One |  [🔗 Link](https://leetcode.com/problems/plus-one/)| [📁 Code](Arrays&Strings//10_PlusOne.java)|
 
 
 ---
