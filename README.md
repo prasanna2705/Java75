@@ -52,6 +52,7 @@ Each solution file includes:
 |      |                  |Longest Compressed String |  [🔗 Link](https://leetcode.com/problems/longest-common-prefix/)| [📁 Code](Arrays&Strings//8_LongestCompressedString.java)|
 |      |                  |Majority Element |  [🔗 Link](https://leetcode.com/problems/majority-element/)| [📁 Code](Arrays&Strings//9_MajorityElement.java)|
 |      |                  |Plus One |  [🔗 Link](https://leetcode.com/problems/plus-one/)| [📁 Code](Arrays&Strings//10_PlusOne.java)|
+|      |                  |Increasing Triplet Subsequence |  [🔗 Link](https://leetcode.com/problems/increasing-triplet-subsequence/)| [📁 Code](Arrays&Strings//11_IncreasingTriplet.java)|
 
 
 ---
