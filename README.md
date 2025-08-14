@@ -53,8 +53,8 @@ Each solution file includes:
 |      |                  |Majority Element |  [🔗 Link](https://leetcode.com/problems/majority-element/)| [📁 Code](Arrays&Strings//9_MajorityElement.java)|
 |      |                  |Plus One |  [🔗 Link](https://leetcode.com/problems/plus-one/)| [📁 Code](Arrays&Strings//10_PlusOne.java)|
 |      |                  |Increasing Triplet Subsequence |  [🔗 Link](https://leetcode.com/problems/increasing-triplet-subsequence/)| [📁 Code](Arrays&Strings//11_IncreasingTriplet.java)|
-| 2     |   HashMap               |Maximum Number of K Sum Pairs |  [🔗 Link](https://leetcode.com/problems/max-number-of-k-sum-pairs/)| [📁 Code](HashMap//1_MaXElementsWithSumK.java)|
-| 3     |  Two Pointers              |Is Subsequence |  [🔗 Link](https://leetcode.com/problems/is-subsequence/)| [📁 Code](IsSubsequence.java)|
+| 2     |   HashMap               |Maximum Number of K Sum Pairs |  [🔗 Link](https://leetcode.com/problems/max-number-of-k-sum-pairs/)| [📁 Code](HashMap//1_MaxElementsWithSumK.java)|
+| 3     |  Two Pointers              |Is Subsequence |  [🔗 Link](https://leetcode.com/problems/is-subsequence/)| [📁 Code](TwoPointers//IsSubsequence.java)|
 
 
 ---
