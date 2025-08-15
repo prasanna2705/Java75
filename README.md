@@ -55,6 +55,8 @@ Each solution file includes:
 |      |                  |Increasing Triplet Subsequence |  [🔗 Link](https://leetcode.com/problems/increasing-triplet-subsequence/)| [📁 Code](Arrays&Strings//11_IncreasingTriplet.java)|
 | 2     |   HashMap               |Maximum Number of K Sum Pairs |  [🔗 Link](https://leetcode.com/problems/max-number-of-k-sum-pairs/)| [📁 Code](HashMap//1_MaxElementWithSumK.java)|
 | 3     |  Two Pointers              |Is Subsequence |  [🔗 Link](https://leetcode.com/problems/is-subsequence/)| [📁 Code](TwoPointers//IsSubsequence.java)|
+|       |                     |Move Zeroes |  [🔗 Link](https://leetcode.com/problems/move-zeroes/)| [📁 Code](TwoPointers//2_MoveZeores.java)|
+
 
 
 ---
