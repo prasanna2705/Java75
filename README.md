@@ -56,7 +56,8 @@ Each solution file includes:
 | 2     |   HashMap               |Maximum Number of K Sum Pairs |  [🔗 Link](https://leetcode.com/problems/max-number-of-k-sum-pairs/)| [📁 Code](HashMap//1_MaxElementWithSumK.java)|
 | 3     |  Two Pointers              |Is Subsequence |  [🔗 Link](https://leetcode.com/problems/is-subsequence/)| [📁 Code](TwoPointers//IsSubsequence.java)|
 |       |                     |Move Zeroes |  [🔗 Link](https://leetcode.com/problems/move-zeroes/)| [📁 Code](TwoPointers//2_MoveZeores.java)|
-
+| 4    | LinkedList             |Merge Two Sorted LinkedLists |  [🔗 Link](https://leetcode.com/problems/merge-two-sorted-lists/)| [📁 Code](LinkedList/Merge2Sortedlists.java)|
+| | | Add Two Numbers| [🔗 Link](https://leetcode.com/problems/add-two-numbers/)| [📁 Code](LinkedList/AddTwoNumbers.java)|
 
 
 ---
