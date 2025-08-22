@@ -54,13 +54,14 @@ Each solution file includes:
 |      |                  |Plus One |  [🔗 Link](https://leetcode.com/problems/plus-one/)| [📁 Code](Arrays&Strings//10_PlusOne.java)|
 |      |                  |Increasing Triplet Subsequence |  [🔗 Link](https://leetcode.com/problems/increasing-triplet-subsequence/)| [📁 Code](Arrays&Strings//11_IncreasingTriplet.java)|
 | 2     |   HashMap               |Maximum Number of K Sum Pairs |  [🔗 Link](https://leetcode.com/problems/max-number-of-k-sum-pairs/)| [📁 Code](HashMap//1_MaxElementWithSumK.java)|
-| 3     |  Two Pointers              |Is Subsequence |  [🔗 Link](https://leetcode.com/problems/is-subsequence/)| [📁 Code](TwoPointers//IsSubsequence.java)|
+| 3    |   Stacks             |Reverse Stars from a String|  [🔗 Link](https://leetcode.com/problems/removing-stars-from-a-string/ ))| [📁 Code](Stacks//removestarsfromaString.java)|
+| 4 | LinkedList             |Merge Two Sorted LinkedLists |  [🔗 Link](https://leetcode.com/problems/merge-two-sorted-lists/)| [📁 Code](LinkedList/Merge2Sortedlists.java)|
+| | | Add Two Numbers| [🔗 Link](https://leetcode.com/problems/add-two-numbers/)| [📁 Code](LinkedList/AddTwoNumbers.java)|
+| 5    |  Two Pointers              |Is Subsequence |  [🔗 Link](https://leetcode.com/problems/is-subsequence/)| [📁 Code](TwoPointers//IsSubsequence.java)|
 |       |                     |Move Zeroes |  [🔗 Link](https://leetcode.com/problems/move-zeroes/)| [📁 Code](TwoPointers//2_MoveZeores.java)|
 |       |                     |Container with Most Water |  [🔗 Link](https://leetcode.com/problems/container-with-most-water/)| [📁 Code](TwoPointers/3_ContainerwithMostWater.java)|
 |       |                     |Can Place Flowers |  [🔗 Link](https://leetcode.com/problems/can-place-flowers/)| [📁 Code](TwoPointers/4_CanPlaceFlowers.java)|
 
-| 4    | LinkedList             |Merge Two Sorted LinkedLists |  [🔗 Link](https://leetcode.com/problems/merge-two-sorted-lists/)| [📁 Code](LinkedList/Merge2Sortedlists.java)|
-| | | Add Two Numbers| [🔗 Link](https://leetcode.com/problems/add-two-numbers/)| [📁 Code](LinkedList/AddTwoNumbers.java)|
 
 
 ---
