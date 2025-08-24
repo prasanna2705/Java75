@@ -57,6 +57,7 @@ Each solution file includes:
 | 3    |   Stacks             |Reverse Stars from a String|  [🔗 Link](https://leetcode.com/problems/removing-stars-from-a-string/ ))| [📁 Code](Stacks//removestarsfromaString.java)|
 | 4 | LinkedList             |Merge Two Sorted LinkedLists |  [🔗 Link](https://leetcode.com/problems/merge-two-sorted-lists/)| [📁 Code](LinkedList/Merge2Sortedlists.java)|
 | | | Add Two Numbers| [🔗 Link](https://leetcode.com/problems/add-two-numbers/)| [📁 Code](LinkedList/AddTwoNumbers.java)|
+| | | Odd Even LinkedList| [🔗 Link](https://leetcode.com/problems/odd-even-linked-list/)| [📁 Code](LinkedList/oddevenLinkedList.java)
 | 5    |  Two Pointers              |Is Subsequence |  [🔗 Link](https://leetcode.com/problems/is-subsequence/)| [📁 Code](TwoPointers//IsSubsequence.java)|
 |       |                     |Move Zeroes |  [🔗 Link](https://leetcode.com/problems/move-zeroes/)| [📁 Code](TwoPointers//2_MoveZeores.java)|
 |       |                     |Container with Most Water |  [🔗 Link](https://leetcode.com/problems/container-with-most-water/)| [📁 Code](TwoPointers/3_ContainerwithMostWater.java)|
